@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EbbieInTech
-- 👀 I’m interested in becoming a front end developer while learning some UX/UI
-- 🌱 I’m currently learning HTML,CSS, and JavaScript at SheCodes & JavaScript with Codecademy
+- 👀 I’m interested in learning about coding and management
+- 🌱 I’m currently learning HTML,CSS, and JavaScript at SheCodes & JavaScript with Codecademy (Update: I graduated!)
 
 I am new to GitHub so be easy, lol! I want to immerse myself and learn a lot!
 
